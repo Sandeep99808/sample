@@ -1,4 +1,4 @@
 # sample
 This is my sample Repository
 <br>
-Author: Sandep R MKNS
+Author: Sandep R MKNS sandy
